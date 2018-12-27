@@ -2,7 +2,7 @@
 A simple batch to Auto join our server;
 UK420DAYZ|NO STAMINA|AIRDROPS|BASEBUILDING -  54.36.126.208:2502
 
-PLEASE DO NOT COPY MY WORK WITHOUT WRITTEN PERMISSION.
+Knock yourself out, free to use and edit.
 
 # To use this file
 
